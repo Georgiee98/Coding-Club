@@ -93,19 +93,28 @@ header {
     width: 50%;
     justify-content: center;
     align-items: center;
-}
 
+}
+.header-right {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 .header-right p {
     margin-top: 20px;
-    width: 215px;
+    width: 268px;
+    font-size: 20px;
     text-align: center;
 }
 
 .header-right h1 {
     color: green;
+    font-size: 55px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 800px) {
     header {
         display: flex;
         flex-direction: column;
@@ -137,12 +146,11 @@ header {
         align-items: center;
     }
 
-    /* .header-right p {
-        width: 100%;
-    } */
 }
 
 /* Header Section Intro End */
+
+
 
 
 
@@ -200,12 +208,15 @@ th {
 td {
     letter-spacing: 1px;
 }
-
 /* About Us Section Finish */
 
 
-/* Sign Up Form Start */
 
+
+
+
+
+/* Sign Up Form Start */
 form {
     display: flex;
     height: 60vh;
@@ -230,7 +241,9 @@ form {
     align-items: center;
     padding: 20px;
 }
-
+.form-inputs input {
+    font-size: 16px;
+}
 .form-inputs label {
     margin-bottom: 5px;
 }
@@ -248,12 +261,11 @@ form button {
     color: white;
     margin-top: 10px;
 }
-
-
-/* Form Finish */
-
-
 /* Sign Up Form End */
+
+
+
+
 
 
 
@@ -266,7 +278,7 @@ footer {
     align-items: center;
     text-align: center;
     justify-content: space-around;
-    height: 50vh;
+    height: 40vh;
     padding-top: 15px;
 }
 
