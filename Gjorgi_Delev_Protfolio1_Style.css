@@ -143,3 +143,62 @@ header {
 }
 
 /* Header Section Intro End */
+
+
+
+
+/* About Us Section Start */
+section {
+    padding: 10px;
+    background-color: black;
+}
+
+.section-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 55px;
+}
+
+.section-offer {
+    padding: 20px;
+}
+
+section h2,
+section p {
+    color: green;
+    text-align: center;
+}
+
+.section-offer p,
+.section-offer ul {
+    color: white;
+    text-align: start;
+}
+
+ul {
+    list-style: disc;
+    padding: 10px 30px;
+}
+
+table {
+    color: white;
+}
+
+tr,
+td {
+    border-bottom: 1px solid white;
+    text-align: center;
+    padding: 5px;
+}
+
+th {
+    font-weight: bold;
+}
+
+
+td {
+    letter-spacing: 1px;
+}
+
+/* About Us Section Finish */
