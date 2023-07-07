@@ -202,3 +202,55 @@ td {
 }
 
 /* About Us Section Finish */
+
+
+/* Sign Up Form Start */
+
+form {
+    display: flex;
+    height: 60vh;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+
+.form-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    color: green
+}
+
+.form-inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.form-inputs label {
+    margin-bottom: 5px;
+}
+
+.form-inputs input {
+    margin-bottom: 10px;
+}
+
+
+form button {
+    background-color: green;
+    border-radius: 50%;
+    border: 1px solid black;
+    padding: 5px 8px;
+    color: white;
+    margin-top: 10px;
+}
+
+
+/* Form Finish */
+
+
+/* Sign Up Form End */
