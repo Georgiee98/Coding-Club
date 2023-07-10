@@ -12,7 +12,7 @@ Users of this website will be able to find all the information they need to know
 # Features
 
 
-<hr>
+
 
 -  **Navigation**
      -  Featured at the top of the page, the navigation shows the club name in the left corner: CODING CLUB that links to the top of the page.
@@ -20,7 +20,7 @@ Users of this website will be able to find all the information they need to know
      -  The navigation is in a font that looks like code, and acolor that contrast with the background.
      -  The navigation clearly tells the user the name of the club and website and makes the different sections of information easy to find.
 
-<hr>
+
 
 ![image](https://github.com/Georgiee98/Protfolio_HTML_CSS/assets/125307984/c2f733ce-3702-4731-8274-10dc5fccb3ff)
 
@@ -58,16 +58,15 @@ Users of this website will be able to find all the information they need to know
 
 
 ##  Testing 
-<hr>
+
 
 -  I tested playing this game in different browsers: Chrome, Firefox, Safari.
 -  I confirmed that the game results are always correct.
 -  I confirmed that the header, instructions, options, results and footer text are all readable and easy to understand.
 -  I confirmed that the colors and fonts chosen are easy to read and accessible by running it trough lighthouse in devtools
-
-    IMG of LightHouse
 -  I confirmed that this project is responseve, looks good and functinos on all standard screen siing using the devtools device toolbar.
-
+  
+  ![image](https://github.com/Georgiee98/Protfolio_HTML_CSS/assets/125307984/9abc53ba-120e-4d90-bdc7-446e73f58107)
 
 ###  Bugs
 -  No bugs
@@ -82,17 +81,17 @@ Users of this website will be able to find all the information they need to know
 No unfixed bugs
 
 ## Deployment
-<hr>
+
 
 *  The site was deployed to GitHub pages. The steps to deploy are as follows:
     *  In the GitHub repository, navigate to the Settings tab
     *  From the source section drop-down menum select the Master or Main Branch
     *  Once a branch is selected, the page provided the link to the completed webiste. (it could take a few minutes, just refresh the page)
 
-The live link can be found here -  LINK OF WEBSITE
+The live link can be found here -  [WEBSITE](https://georgiee98.github.io/Protfolio_HTML_CSS/)
 
 ##  Credits
-<hr>
+
 
 **Content**
 *  [Code Institute Bootcamp](https://codeinstitute.net)
