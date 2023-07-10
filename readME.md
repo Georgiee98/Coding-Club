@@ -52,3 +52,46 @@ IMG SIGN UP
 
    
 IMG Contact
+
+##  Testing 
+<hr>
+
+-  I tested playing this game in different browsers: Chrome, Firefox, Safari.
+-  I confirmed that the game results are always correct.
+-  I confirmed that the header, instructions, options, results and footer text are all readable and easy to understand.
+-  I confirmed that the colors and fonts chosen are easy to read and accessible by running it trough lighthouse in devtools
+
+    IMG of LightHouse
+-  I confirmed that this project is responseve, looks good and functinos on all standard screen siing using the devtools device toolbar.
+
+
+###  Bugs
+-  No bugs
+
+###  Validator Testing
+*  HTML
+    *  No errors were returned when passing through the official W3C Validator
+*  CSS
+    *  No errors were found when passing trough the official (Jigsaw) validator
+
+## Unfixed Bugs
+No unfixed bugs
+
+## Deployment
+<hr>
+
+*  The site was deployed to GitHub pages. The steps to deploy are as follows:
+    *  In the GitHub repository, navigate to the Settings tab
+    *  From the source section drop-down menum select the Master or Main Branch
+    *  Once a branch is selected, the page provided the link to the completed webiste. (it could take a few minutes, just refresh the page)
+
+The live link can be found here -  LINK OF WEBSITE
+
+##  Credits
+<hr>
+
+**Content**
+*  [Code Institute Bootcamp](https://codeinstitute.net)
+
+**Media**
+*  The image of the kid coding was taken from [My Best Guide (educative site)]([https://en.wikipedia.org/wiki/Rock_paper_scissors](https://mybestguide.com/education/coding-for-kids/)https://mybestguide.com/education/coding-for-kids/)
