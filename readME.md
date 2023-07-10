@@ -6,7 +6,8 @@ The Coding Club offers fun activities for kids to learn how to code from a young
 
 Users of this website will be able to find all the information they need to know about Coding Club: About the club, meeting times, pricing, contact information and sign up form. This site is targeted towards parents of children who want to learn to code.
 
-IMG!
+![Cdoing_Club_Device_Mock](https://github.com/Georgiee98/Protfolio_HTML_CSS/assets/125307984/07d80b2c-86f3-4015-8b58-5a9ba63732b0)
+
 
 # Features
 
@@ -21,7 +22,8 @@ IMG!
 
 <hr>
 
-IMG of navigation
+![image](https://github.com/Georgiee98/Protfolio_HTML_CSS/assets/125307984/c2f733ce-3702-4731-8274-10dc5fccb3ff)
+
 
 
 -  **The Header**
@@ -29,13 +31,13 @@ IMG of navigation
     -  The header explains the club is for kids aged 8 to 18
     -  This section provides the user with clear information about what the site is and who the club it is for.
 
-IMG INTRO
+![image](https://github.com/Georgiee98/Protfolio_HTML_CSS/assets/125307984/acd0333d-ccb9-4df7-a060-33171925c718)
 
 -  **The About Us Section**
     -  The About us section gives details about what the club offers their members, and has a table with the club meeting times.
     -  This section provides the user with clear information about what the site is and who the club it is for.
 
- IMG ABOUT US
+![image](https://github.com/Georgiee98/Protfolio_HTML_CSS/assets/125307984/da774501-66b9-4738-be17-ca98b57a5123)
 
 -  **The Sign Up Form**
     -  The sign up section has a form to collect details from parents so they can sign up to the Coding Club.
@@ -43,7 +45,8 @@ IMG INTRO
     -  The sign up form is valuable to the user as it gives them the ability to sign up to the Coding Club.
 
 
-IMG SIGN UP
+![image](https://github.com/Georgiee98/Protfolio_HTML_CSS/assets/125307984/397d6cc9-faeb-493a-a6cd-ed2820b71626)
+
 
 -  **The Contact Section**
     -  The contact section encourages users to get in the contact and provides a phone number, email adress and street adress where they can be found.
@@ -51,7 +54,8 @@ IMG SIGN UP
     -  The contact section is valuable to the user as it gives them the ability to find and contract the Cdoing Club if they need to.
 
    
-IMG Contact
+![image](https://github.com/Georgiee98/Protfolio_HTML_CSS/assets/125307984/fedb9ca8-6120-4739-8851-1059483a96af)
+
 
 ##  Testing 
 <hr>
